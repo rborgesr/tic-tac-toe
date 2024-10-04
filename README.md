@@ -16,4 +16,3 @@
 
 -O computador responde seu movimento e a verificação é repetida;
 
-não implementem qualquer forma de inteligência artificial – uma escolha de campo aleatória feita pelo computador é boa o suficiente para o jogo.
